@@ -30,16 +30,6 @@
     "created_at": "2026-08-26T23:20:01Z"
   },
   {
-    "id": 4,
-    "type": "task",
-    "description": "New task item",
-    "board": "pending",
-    "priority": 1,
-    "completed": false,
-    "starred": false,
-    "created_at": "2026-08-26T23:21:26Z"
-  },
-  {
     "id": 5,
     "type": "note",
     "description": "This is a new note",
