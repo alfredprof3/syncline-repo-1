@@ -8,5 +8,15 @@
     "completed": false,
     "starred": false,
     "created_at": "2026-08-26T23:47:27Z"
+  },
+  {
+    "id": 2,
+    "type": "note",
+    "description": "scrcpy",
+    "board": "Scrcpy",
+    "priority": 1,
+    "completed": false,
+    "starred": false,
+    "created_at": "2026-08-26T23:47:46Z"
   }
 ]
