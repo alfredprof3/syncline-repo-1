@@ -6,7 +6,7 @@
     "board": "Pendientes",
     "priority": 1,
     "completed": false,
-    "starred": false,
+    "starred": true,
     "archived": false,
     "created_at": "2026-08-27T02:09:39Z"
   }
