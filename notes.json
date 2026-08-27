@@ -1,13 +1,1 @@
-[
-  {
-    "id": 4,
-    "type": "note",
-    "description": "Test moving",
-    "board": "My Board",
-    "priority": 1,
-    "completed": false,
-    "starred": false,
-    "archived": false,
-    "created_at": "2026-08-27T00:45:17Z"
-  }
-]
+[]
