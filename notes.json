@@ -41,7 +41,7 @@
   {
     "id": 4,
     "type": "task",
-    "description": "Reducir la instalación a un archivo. Actualmente se necesita tener el archivo creado syncline creado para poder realizar la instalación",
+    "description": "Reducir la instalación a un archivo. Actualmente se necesita tener el archivo syncline creado para poder realizar la instalación",
     "board": "Pendientes",
     "priority": 1,
     "completed": false,
