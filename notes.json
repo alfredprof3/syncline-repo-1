@@ -23,7 +23,7 @@
     "id": 3,
     "type": "task",
     "description": "Test archiving works greate!",
-    "board": "My Board",
+    "board": "Scrcpy",
     "priority": 1,
     "completed": false,
     "starred": false,
