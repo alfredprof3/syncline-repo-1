@@ -22,7 +22,7 @@
   {
     "id": 3,
     "type": "task",
-    "description": "Test archiving",
+    "description": "Test archiving works greate!",
     "board": "My Board",
     "priority": 1,
     "completed": false,
