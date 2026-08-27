@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": 1,
+    "type": "task",
+    "description": "Nueva tarea añadida",
+    "board": "Pendientes",
+    "priority": 1,
+    "completed": false,
+    "starred": false,
+    "archived": false,
+    "created_at": "2026-08-27T02:09:39Z"
+  }
+]
