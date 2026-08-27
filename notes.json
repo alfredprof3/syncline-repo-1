@@ -86,7 +86,7 @@
     "completed": false,
     "starred": false,
     "archived": false,
-    "status": "pending",
+    "status": "canceled",
     "due_date": null,
     "created_at": "2026-08-27T03:07:44Z"
   }
