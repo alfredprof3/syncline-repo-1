@@ -107,7 +107,7 @@
     "id": 9,
     "type": "task",
     "description": "Adaptar el script para instalarlo y usarlo en Termux Android",
-    "board": "My Board",
+    "board": "Pendientes",
     "priority": 1,
     "completed": false,
     "starred": false,
