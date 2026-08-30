@@ -210,7 +210,7 @@
   {
     "id": 17,
     "type": "note",
-    "description": "Se actualizó el kernel de Linux de 6.12.105+deb13-amd64 -> 6.12.107+deb13-amd64 como resultado se tienen que volver a instalar los linux-headers-6.12.107+deb13-amd64 para que los drivers se actualicen; Wi-Fi, etc",
+    "description": "Se actualizó el kernel de Linux de 6.12.105+deb13-amd64 -> 6.12.107+deb13-amd64 como resultado se tienen que volver a instalar los linux-headers-6.12.107+deb13-amd64 para que los drivers se actualicen; Wi-Fi, etc. En caso de no tener éxito, volver a reinstalar los drivers manualmente o mediante dkms (que es lo más recomendable)",
     "board": "Notas",
     "priority": 1,
     "completed": false,
