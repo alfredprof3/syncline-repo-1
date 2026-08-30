@@ -198,7 +198,7 @@
     "id": 16,
     "type": "task",
     "description": "Poder añadirle a una nota o tarea la fecha del día de hoy o cualquier otra fecha. Esta función también puede ser que se muestra una línea de tiempo de las tareas o notas creadas mostrando la fecha exacta de su creación (Deicidir cuál de las dos conviene más)",
-    "board": "My Board",
+    "board": "Pendientes",
     "priority": 1,
     "completed": false,
     "starred": false,
