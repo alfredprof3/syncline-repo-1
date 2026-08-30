@@ -219,5 +219,18 @@
     "status": "pending",
     "due_date": null,
     "created_at": "2026-08-30T00:42:15Z"
+  },
+  {
+    "id": 18,
+    "type": "task",
+    "description": "Cuándo el usuario edite una tarea o nota ya creada, mostrar la leyenda «Task <id> Updated» o «Note <id>» Updated",
+    "board": "Pendientes",
+    "priority": 1,
+    "completed": false,
+    "starred": false,
+    "archived": false,
+    "status": "pending",
+    "due_date": null,
+    "created_at": "2026-08-30T01:00:33Z"
   }
 ]
