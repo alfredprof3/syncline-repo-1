@@ -206,5 +206,18 @@
     "status": "pending",
     "due_date": null,
     "created_at": "2026-08-30T00:39:44Z"
+  },
+  {
+    "id": 17,
+    "type": "note",
+    "description": "Se actualizó el kernel de Linux de 6.12.105+deb13-amd64 -> 6.12.107+deb13-amd64 como resultado se tienen que volver a instalar los linux-headers-6.12.107+deb13-amd64 para que los drivers se actualicen; Wi-Fi, etc",
+    "board": "My Board",
+    "priority": 1,
+    "completed": false,
+    "starred": false,
+    "archived": false,
+    "status": "pending",
+    "due_date": null,
+    "created_at": "2026-08-30T00:42:15Z"
   }
 ]
