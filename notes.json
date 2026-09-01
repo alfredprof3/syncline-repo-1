@@ -19,7 +19,7 @@
     "board": "Pendientes",
     "priority": 1,
     "completed": true,
-    "starred": false,
+    "starred": true,
     "archived": false,
     "status": "completed",
     "due_date": null,
