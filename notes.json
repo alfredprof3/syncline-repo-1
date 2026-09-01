@@ -119,7 +119,7 @@
   {
     "id": 10,
     "type": "task",
-    "description": "Unificar a solamente un comando la opción de clear y clear-canceled a solamente una. El comando debe permitir eliminar tareas canceladas como confirmadas",
+    "description": "Unificar a solamente un comando la opción de clear y clear-canceled a solamente una. El comando debe ser algo como esto 'sl clear' -> elimina tareas con check y canceladas, 'sl clear checked' -> elimina tareas con check, 'sl clear canceled' -> elimina tareas canceladas",
     "board": "Pendientes",
     "priority": 1,
     "completed": false,
