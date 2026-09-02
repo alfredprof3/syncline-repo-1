@@ -1,57 +1,5 @@
 [
   {
-    "id": 3,
-    "type": "task",
-    "description": "Poder borrar más de un elemento a la vez",
-    "board": "Pendientes",
-    "priority": 1,
-    "completed": true,
-    "starred": false,
-    "archived": false,
-    "status": "completed",
-    "due_date": null,
-    "created_at": "2026-08-27T03:01:55Z"
-  },
-  {
-    "id": 4,
-    "type": "task",
-    "description": "Reducir la instalación a un archivo. Actualmente se necesita tener el archivo syncline creado para poder realizar la instalación",
-    "board": "Pendientes",
-    "priority": 1,
-    "completed": true,
-    "starred": false,
-    "archived": false,
-    "status": "completed",
-    "due_date": null,
-    "created_at": "2026-08-27T03:03:02Z"
-  },
-  {
-    "id": 5,
-    "type": "task",
-    "description": "No se pueden visualizar algunos iconos/simbolos. Preguntar como se puede solucionar",
-    "board": "Pendientes",
-    "priority": 1,
-    "completed": false,
-    "starred": false,
-    "archived": false,
-    "status": "canceled",
-    "due_date": null,
-    "created_at": "2026-08-27T03:05:25Z"
-  },
-  {
-    "id": 6,
-    "type": "task",
-    "description": "Cuándo la tarea esta marcada con el comando check, quitar el cuadro y poner solamente el icono o el simolo de ✓",
-    "board": "Pendientes",
-    "priority": 1,
-    "completed": false,
-    "starred": false,
-    "archived": false,
-    "status": "canceled",
-    "due_date": null,
-    "created_at": "2026-08-27T03:07:21Z"
-  },
-  {
     "id": 9,
     "type": "task",
     "description": "Adaptar el script para instalarlo y usarlo en Termux Android",
