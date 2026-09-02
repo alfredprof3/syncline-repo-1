@@ -57,10 +57,10 @@
     "description": "Se modificó la instalación del archivo, pero ahora son 3 archivos; build_installer.sh, syncline.sh, install.sh y uninstaller.sh ¿Se podría reducir aún más?",
     "board": "Pendientes",
     "priority": 1,
-    "completed": true,
+    "completed": false,
     "starred": false,
     "archived": false,
-    "status": "completed",
+    "status": "canceled",
     "due_date": null,
     "created_at": "2026-08-28T20:25:23Z"
   },
