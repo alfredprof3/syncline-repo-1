@@ -31,7 +31,7 @@
     "description": "Poder borrar más de un elemento a la vez",
     "board": "Pendientes",
     "priority": 1,
-    "completed": true,
+    "completed": false,
     "starred": false,
     "archived": false,
     "status": "pending",
