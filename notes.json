@@ -1,31 +1,5 @@
 [
   {
-    "id": 1,
-    "type": "task",
-    "description": "Borrar las tareas canceladas o marcadas con ✗",
-    "board": "Pendientes",
-    "priority": 1,
-    "completed": false,
-    "starred": false,
-    "archived": false,
-    "status": "canceled",
-    "due_date": null,
-    "created_at": "2026-08-27T02:57:42Z"
-  },
-  {
-    "id": 2,
-    "type": "task",
-    "description": "Añadirle una prioridad a una tarea ya creada",
-    "board": "Pendientes",
-    "priority": 1,
-    "completed": false,
-    "starred": false,
-    "archived": false,
-    "status": "canceled",
-    "due_date": null,
-    "created_at": "2026-08-27T02:59:39Z"
-  },
-  {
     "id": 3,
     "type": "task",
     "description": "Poder borrar más de un elemento a la vez",
