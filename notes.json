@@ -263,7 +263,7 @@
     "id": 26,
     "type": "task",
     "description": "× 'jq' is required but not installed. Añadir la opción de mostrarle al usuario en pantalla si desea installer el paquete",
-    "board": "My Board",
+    "board": "Pendientes",
     "priority": 1,
     "completed": false,
     "starred": false,
