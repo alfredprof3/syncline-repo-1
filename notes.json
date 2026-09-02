@@ -44,10 +44,10 @@
     "description": "Reducir la instalación a un archivo. Actualmente se necesita tener el archivo syncline creado para poder realizar la instalación",
     "board": "Pendientes",
     "priority": 1,
-    "completed": true,
+    "completed": false,
     "starred": false,
     "archived": false,
-    "status": "completed",
+    "status": "pending",
     "due_date": null,
     "created_at": "2026-08-27T03:03:02Z"
   },
