@@ -171,7 +171,7 @@
   {
     "id": 14,
     "type": "task",
-    "description": "Cuándo se instala la herramienta, no instala la dependencia 'jq' El script debe ser capaz de poder instalar esta dependencia",
+    "description": "Cuándo se instala syncline, no instala la dependencia 'jq' por lo tanto muestra un mensaje en pantalla '× 'jq' is required but not installed' Añadir la opción de mostrar en pantalla al usuario si desea instalar el paquete",
     "board": "Pendientes",
     "priority": 1,
     "completed": false,
