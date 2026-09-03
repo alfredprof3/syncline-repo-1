@@ -5,10 +5,10 @@
     "description": "Adaptar el script para instalarlo y usarlo en Termux Android",
     "board": "Pendientes",
     "priority": 1,
-    "completed": false,
+    "completed": true,
     "starred": false,
     "archived": false,
-    "status": "pending",
+    "status": "completed",
     "due_date": null,
     "created_at": "2026-08-28T03:59:03Z"
   },
