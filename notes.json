@@ -161,10 +161,10 @@
     "description": "Prueba macOS-Linux",
     "board": "My Board",
     "priority": 1,
-    "completed": false,
+    "completed": true,
     "starred": false,
     "archived": false,
-    "status": "pending",
+    "status": "completed",
     "due_date": null,
     "created_at": "2026-09-04T17:12:12Z"
   }
