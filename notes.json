@@ -135,10 +135,10 @@
     "description": "Previamente le pedi que gestionara los PAT (Access Tokens) lo hizo por lo tanto, muestra el siguiente mensaje en pantalla -> '/home/xuser/.local/bin/syncline-git-credential get: 1: /home/xuser/.local/bin/syncline-git-credential: not found' Automatizar esta función, dependiendo el tipo de 'credential-store' o 'keychain' que este usando el usuario, poder trabajar con ella, ejemplo pass, gnome-keyring, etc",
     "board": "My Board",
     "priority": 1,
-    "completed": false,
+    "completed": true,
     "starred": false,
     "archived": false,
-    "status": "pending",
+    "status": "completed",
     "due_date": null,
     "created_at": "2026-09-02T21:36:00Z"
   },
