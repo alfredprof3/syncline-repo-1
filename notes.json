@@ -154,5 +154,18 @@
     "status": "pending",
     "due_date": null,
     "created_at": "2026-09-04T19:57:18Z"
+  },
+  {
+    "id": 31,
+    "type": "task",
+    "description": "Pedirle a la IA que me diga como continuar el desarrollo en un entorno macOS",
+    "board": "Pendientes",
+    "priority": 1,
+    "completed": false,
+    "starred": false,
+    "archived": false,
+    "status": "pending",
+    "due_date": null,
+    "created_at": "2026-09-09T20:36:45Z"
   }
 ]
