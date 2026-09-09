@@ -135,10 +135,10 @@
     "description": "Issue/Troubleshooting: Tengo marcada una tarea con '✓' pero cuando ejecuto el comando 'syncline cancel <id>' no cambia su estado a cancelada es decir, que no aparece el símbolo '✗'",
     "board": "Pendientes",
     "priority": 1,
-    "completed": false,
+    "completed": true,
     "starred": false,
     "archived": false,
-    "status": "pending",
+    "status": "completed",
     "due_date": null,
     "created_at": "2026-09-02T22:59:16Z"
   },
