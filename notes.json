@@ -148,10 +148,10 @@
     "description": "Configurar el osxkeychain para macOS",
     "board": "Pendientes",
     "priority": 1,
-    "completed": false,
+    "completed": true,
     "starred": false,
     "archived": false,
-    "status": "pending",
+    "status": "completed",
     "due_date": null,
     "created_at": "2026-09-04T19:57:18Z"
   },
