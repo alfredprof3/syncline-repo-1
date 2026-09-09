@@ -96,10 +96,10 @@
     "description": "Mostrar únicamente la leyenda «⟳ Syncing with remote...» y una vez que ha terminado de subir los cambios mostrar «✓ Sync complete»",
     "board": "Pendientes",
     "priority": 1,
-    "completed": false,
+    "completed": true,
     "starred": false,
     "archived": false,
-    "status": "pending",
+    "status": "completed",
     "due_date": null,
     "created_at": "2026-08-31T01:51:18Z"
   },
