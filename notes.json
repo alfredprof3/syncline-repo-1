@@ -109,10 +109,10 @@
     "description": "Agregar una función que te permita seleccionar el tipo de símbolo para que aparece al inicio de cada nota y tarea [❯ ‣ • › ➜] en las líneas 169 y 210",
     "board": "Pendientes",
     "priority": 1,
-    "completed": false,
+    "completed": true,
     "starred": false,
     "archived": false,
-    "status": "pending",
+    "status": "completed",
     "due_date": null,
     "created_at": "2026-09-01T04:45:31Z"
   },
